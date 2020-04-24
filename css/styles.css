@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+  font-family: Lato, sans-serif;
+}
+
+h1{
+  font-family: 'Righteous', cursive;
+
+}
+
+h4{
+  font-family: Lato,sans-serif;
+}
+
+.container4{
+  background-color: #FFD692;
+  height: 500px;
+  text-align: center;
+
+
+}
+
+
+.container3{
+  background-color: #E16363;
+  height: 400px;
+
+
+}
+
+.container2{
+  background-color: #943855;
+  height: 300px;
+
+}
+
+.container1{
+  background-color: #6E2142;
+  height: 700px;
+
+}

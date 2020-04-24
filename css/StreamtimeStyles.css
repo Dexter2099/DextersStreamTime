@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+  font-size: 5.642rem;
+  margin: 10px auto 0 auto;
+  color: #C70039;
+}
+
+h4 {
+  font-family: Lato, sans-serif;
+  font-size: 25px;
+  font-weight: normal;
+  margin-top: 0px;
+  padding-top: 60px;
+}
+
+h2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: normal;
+}
+
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.con1 {
+  background-color: #FFD692;
+  height: 600px;
+  text-align: center;
+}
+
+.pic{
+  padding-top: 53px;
+}
+
+.showtime{
+  border-top-width: 20px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.theShow{
+  font-size: 45px;
+  font-family: 'Vollkorn SC', serif;
+}
+
+.presentdiv{
+ font-size: 25px;
+ padding-top: 50px;
+
+}
+
+
+.con2 {
+  background-color: #E16363;
+  height: 400px;
+}
+
+.con3 {
+  background-color: #943855;
+  height: 300px;
+  margin-top: 0px;
+  padding-top: 60px;
+}
+
+.con4 {
+  background-color: #6E2142;
+  height: 700px;
+}
